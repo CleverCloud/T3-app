@@ -51,7 +51,7 @@ const Home: NextPage = () => {
             >
               <h3 className={styles.cardTitle}>Deploy your app →</h3>
               <div className={styles.cardText}>
-                Deploy your app on Clever Cloud. 
+                Deploy your app on Clever Cloud using a Static or a NodeJS runtime. 
               </div>
             </Link>
 
