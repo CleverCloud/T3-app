@@ -4,7 +4,7 @@
   align-items: center;
   justify-content: center;
   min-height: 100vh;
-  background-image: linear-gradient(to bottom, #2e026d, #15162c);
+  background-image: linear-gradient(to bottom, #c753f9, #060afa);
 }
 
 .container {
@@ -66,6 +66,21 @@
   color: hsl(280 100% 70%);
 }
 
+.redSpan {
+  color:#DE233C
+}
+
+.blueSpan {
+  color: #3A3871
+}
+
+.whiteSpan {
+  color: whitesmoke
+}
+
+.cherrySpan {
+  color: #A51050
+}
 .cardRow {
   display: grid;
   grid-template-columns: repeat(1, minmax(0, 1fr));
